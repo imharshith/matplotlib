@@ -1,4 +1,4 @@
-#BIT electronics and communication department placement analysis.
+#BIT ECE department placement analysis.
 
 import matplotlib.pyplot as plt
 import numpy as np
