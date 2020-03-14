@@ -1,4 +1,4 @@
-#BIT CSE department placement analysis for 4years.
+#BIT CSE department placement analysis.
 
 import matplotlib.pyplot as plt
 import numpy as np
